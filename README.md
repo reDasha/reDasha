@@ -1,7 +1,7 @@
 ### Hi, I'm Dasha 👋
 
-- 🌱 I’m learning to be a good developer in School 21 (created in collaboration with the French School 42, now just a Sber project).
-- 🌱 It's my profile at education platform [Stepik.org](https://stepik.org/users/481404808/profile?preview=true).
+- 🌱 I’m learning to be a good developer at School 21 (created in collaboration with the French School 42, now just a Sber project).
+- 🌱 This is my profile on the educational platform [Stepik.org](https://stepik.org/users/481404808/profile?preview=true).
 - ⚡ Fun fact: I'm blond and smart at the same time.
 
 <!--
