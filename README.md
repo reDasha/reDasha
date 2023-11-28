@@ -2,7 +2,7 @@
 
 - 🌱 I’m learning to be a good developer at School 21 (created in collaboration with the French School 42, now just a Sber project).
 - 🌱 This is my profile on the educational platform [Stepik.org](https://stepik.org/users/481404808/profile?preview=true).
-- ⚡ Fun fact: I'm blond and smart at the same time.
+//- ⚡ Fun fact: I'm blond and smart at the same time.
 
 <!--
 **reDasha/reDasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
