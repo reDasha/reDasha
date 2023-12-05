@@ -1,8 +1,8 @@
 ### Hi, I'm Dasha 👋
 
-- 🌱 I’m learning to be a good developer at School 21 (created in collaboration with the French School 42, now just a Sber project).
+- 🌱 I’m learning to be a good developer at School 21 (created in collaboration with the French School 42, now just a Sber project). 
 - 🌱 This is my profile on the educational platform [Stepik.org](https://stepik.org/users/481404808/profile?preview=true).
-
+- ⚡ Fun fact: As a certified philologist, I enjoy studying languages (at the moment it's Phyton, Go and C).
 
 <!--
 **reDasha/reDasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 - ⚡ Fun fact: I'm blond and smart at the same time.
 -->
