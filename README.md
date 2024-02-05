@@ -2,8 +2,8 @@
 
 - 🌱 I’m learning to be a good developer at School 21 (created in collaboration with the French School 42, now just a Sber project). 
 - 🌱 This is my profile on the educational platform [Stepik.org](https://stepik.org/users/481404808/profile?preview=true).
-- 🌱 English (Upper Intermediate), Deutch (B1).
-- ⚡ Fun fact: As a certified philologist, I enjoy studying languages (at the moment it's Phyton, Go and C).
+- 🌱 English (Upper Intermediate), Deutch (B1), Russian (native).
+- ⚡ Fun fact: As a certified philologist, I enjoy studying languages (at the moment it's Phyton, Go and C/C++).
 <!--
 **reDasha/reDasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
